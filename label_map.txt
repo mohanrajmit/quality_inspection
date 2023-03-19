@@ -1,0 +1,45 @@
+item {
+  id: 1
+  name: 'alloy_wheel'
+}
+
+item {
+  id: 2
+  name: 'front_grill'
+}
+
+item {
+  id: 3
+  name: 'headlamp'
+}
+
+item {
+  id: 4
+  name: 'manual_gear'
+}
+
+item {
+  id: 5
+  name: 'ovr_mirror'
+}
+
+item {
+  id: 6
+  name: 'parking_button'
+}
+
+item {
+  id: 7
+  name: 'rear_camera'
+}
+
+item {
+  id: 8
+  name: 'shvs'
+}
+
+item {
+  id: 9
+  name: 'touch_infotainment'
+}
+
