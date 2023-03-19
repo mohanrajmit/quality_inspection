@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fr4459.jpg</filename>
+	<path>/Users/sivakumarswaminathan/Desktop/Scross/images/fr4459.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ovr_mirror</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>585</ymin>
+			<xmax>696</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fr1641.jpg</filename>
+	<path>/Users/sivakumarswaminathan/Desktop/Scross/images/fr1641.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shvs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1197</xmin>
+			<ymin>828</ymin>
+			<xmax>1508</xmax>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+</annotation>

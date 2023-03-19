@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fr4175.jpg</filename>
+	<path>/Users/sivakumarswaminathan/Desktop/Scross/images/fr4175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alloy_wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>1237</ymin>
+			<xmax>619</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

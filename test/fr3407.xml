@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fr3407.jpg</filename>
+	<path>/Users/sivakumarswaminathan/Desktop/Scross/images/fr3407.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking_button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>452</ymin>
+			<xmax>1021</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>

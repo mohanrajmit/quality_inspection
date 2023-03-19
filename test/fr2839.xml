@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fr2839.jpg</filename>
+	<path>/Users/sivakumarswaminathan/Desktop/Scross/images/fr2839.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manual_gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>330</ymin>
+			<xmax>1139</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+</annotation>
